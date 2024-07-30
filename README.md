@@ -2,7 +2,7 @@
 
 meu nome e jose ricardo
 
-- estou estudando na alira
+- estou estudando na alura
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento de projetos
 
